@@ -1,0 +1,27 @@
+body {
+    font-family: Deja Vu Sans, Arial, sans-serif;
+    background-image: url(../images/macd-logo-solo150.jpg);
+    background-position: left top;
+    background-repeat: no-repeat;
+    font-size: 20px;
+
+}
+
+#body {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 300px;
+}
+
+#header {
+}
+
+#content {
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #0054A4;
+}
+
+#footer {
+}

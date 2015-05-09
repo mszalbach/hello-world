@@ -1,0 +1,5 @@
+^hudson/plugins$
+^target$
+^.idea$
+^atlassian-ide-plugin.xml$
+^hello-world.iml$
